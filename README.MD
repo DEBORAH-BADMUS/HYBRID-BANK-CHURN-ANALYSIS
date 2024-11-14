@@ -84,7 +84,7 @@ This analysis of Hybrid Bank's customer data, segmented by geography and various
 
 Hybrid Bank's customer base has a **55% male and 45% female distribution** across all three countries, with **France** having the largest number of customers, followed by **Spain and Germany** reflecting the bank's strong market presence in France. This suggests that efforts in France should focus on increasing value from this substantial customer base, while Spain and Germany present opportunities for growth and retention.
 
-![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Customers by Geography.png)
+![Visualization](C:\Users\DEBBY\Downloads\Bank%20Churn%20Project\Images\Customers%20by%20Geography.png)
 
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Customers by Gender.png)
 
