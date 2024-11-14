@@ -85,7 +85,9 @@ This analysis of Hybrid Bank's customer data, segmented by geography and various
 Hybrid Bank's customer base has a **55% male and 45% female distribution** across all three countries, with **France** having the largest number of customers, followed by **Spain and Germany** reflecting the bank's strong market presence in France. This suggests that efforts in France should focus on increasing value from this substantial customer base, while Spain and Germany present opportunities for growth and retention.
 
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Customers by Geography.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Customers by Gender.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Customers by Geography and Gender.png)
 
 
@@ -94,8 +96,11 @@ Hybrid Bank's customer base has a **55% male and 45% female distribution** acros
 In terms of customer engagement, those with **5+ years of tenure** at Hybrid Bank exhibit the highest levels of product ownership, suggesting that long-term customers are more likely to hold multiple products. While customers with shorter tenures (1–5 years) also have multiple products, the total number of products held decreases slightly over time. However, there is a slight increase in product engagement among customers with 5+ years of tenure, suggesting strong customer retention and possible renewed loyalty among long-term customers. Active membership is also highest among long-tenure customers, while newer customers (0–1 years) show lower engagement. Therefore, Hybrid Bank can benefit from introducing retention programs or incentives aimed at retaining customers in their early years while continuing to foster loyalty among its long-tenured clients.
 
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Number of Products Owned Across Tenure.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Number of Customers with and without Credit Cards.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Active Membership Across Tenure.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Comparison of Products Owned and Balance by Tenure.png)
 
 
@@ -104,8 +109,11 @@ In terms of customer engagement, those with **5+ years of tenure** at Hybrid Ban
 In terms of financial performance, customers aged **65 and above** have slightly higher credit scores compared to those aged 18–64. This could be attributed to older customers having more experience managing credit and a longer credit history. While the difference in credit scores is not substantial, it highlights the creditworthiness of the older customer segment, which could be linked to their financial stability. While the differences in credit scores across age groups are not large, Hybrid Bank should leverage this insight to offer personalized products that suit the financial behaviors and needs of all age groups.
 
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Average Credit Score by Age Group.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Credit Score by Gender.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Credit Score Distribution by Geography.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Average Customer Balance by Geography.png)
 
 
@@ -114,7 +122,9 @@ In terms of financial performance, customers aged **65 and above** have slightly
 The retention rate at Hybrid Bank is generally strong, with the majority of customers remaining with the bank. However, a significant number—around **2,037 customers**—have exited, representing a notable, though relatively small, proportion of the customer base. **Germany** has the highest exit rate at **32.5%**, indicating potential retention challenges in this market. In contrast, **France and Spain** exhibit lower exit rates, around **16%**, demonstrating relatively better customer loyalty in these countries. The data also suggests that **inactive customers** are more likely to leave, pointing to a need for stronger **re-engagement strategies** to retain these customers and reduce the exit rate further. Special attention should be given to Germany, where the bank could introduce personalized services, loyalty programs, or customer feedback initiatives to better understand and address the reasons for customer exits.
 
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Customer Exit Distribution.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Active Members vs Exited Customers.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Geography vs Exited Customers.png)
 
 
@@ -123,7 +133,9 @@ The retention rate at Hybrid Bank is generally strong, with the majority of cust
 Customer segmentation by balance highlights significant geographical differences. **Germany** stands out with a much larger proportion of **high balance customers**, suggesting that this market consists of a wealthier demographic or more valuable customers.This suggests that Hybrid Bank's efforts in Germany should focus on **high-value retention strategies** that cater to wealthier clients, such as premium banking services, personalized financial advice, or exclusive product offerings. This, however, contrasts with **France**, where **low balance customers** outnumber high balance ones, suggesting a broader customer base with varying financial profiles. The bank could explore offering financial products designed to help these customers grow their wealth, such as savings incentives, investment opportunities, or tailored credit products. **Spain** displays a more balanced distribution between high and low balance customers, though low balance accounts still outnumber high balance ones.
 
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\High vs Low Balance Customers by Geography.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Distribution of Customer Account Balances.png)
+
 ![Visualization](C:\Users\DEBBY\Downloads\Bank Churn Project\Images\Average Balance by Gender.png)
 
 
